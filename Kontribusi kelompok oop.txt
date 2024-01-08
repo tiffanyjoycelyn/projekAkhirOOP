@@ -1,0 +1,33 @@
+Kontribusi Kelompok AOL OOP
+
+TIFFANY JOYCELYN / 2602057186
+Mengerjakan class :
+- Check
+- Show
+- Connect
+- menuUpdate
+- Menu
+- SpecialMenu
+- Checkout
+
+ALVRIAN TIMOTIUS HINANDRA / 2602069766
+Mengerjakan class :
+- Check
+- Show
+- Connect
+- menuReserve
+- menuOrder
+- Reservation
+- ReservationTrivial
+
+VINCENTIA CATHERINE / 2602072760	
+Mengerjakan class :
+- Main
+- Check
+- Show
+- Connect
+- menuOrder
+Membuat Database & ERD
+
+
+
